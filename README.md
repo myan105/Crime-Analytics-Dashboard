@@ -45,6 +45,4 @@ Using **Python** for automation and **Power BI** for visualization, this project
 | **Google Colab** | Notebook environment for pipeline |
 | **GitHub** | Version control & documentation |
 
----
 
-## 📂 Project Structure
